@@ -16,6 +16,7 @@ export default function Home() {
         lenis();
         link();
     }, []);
+
     return (
         <>
             <Skip />
